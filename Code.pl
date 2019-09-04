@@ -1,5 +1,3 @@
-%% SUBMITTED BY ASHWIN VIJAYAKUMAR(50249042) , ARUN KRISHNAMURTHY(50247445)
-%%
 % ===========================================================
 % Main loop:
 % 1. Repeat "input-response" cycle until input starts with "bye"
